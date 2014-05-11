@@ -1,0 +1,13 @@
+# This is the file that contains links to download hosts file
+# Anything that begins with '#' will be ignored
+
+http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&startdate%5Bday%5D=&startdate%5Bmonth%5D=&startdate%5Byear%5D=&mimetype=plaintext
+http://hosts-file.net/.%5Cad_servers.txt
+http://someonewhocares.org/hosts/hosts
+http://winhelp2002.mvps.org/hosts.txt
+http://sysctl.org/cameleon/hosts.win
+
+# Hasn't been updated since 2012, you may wish to uncomment if you wish to use it.
+# http://hostsfile.mine.nu/Hosts
+# Aggressive list, it may cause some site to be broken
+# http://www.hostsfile.org/Downloads/hosts.txt
