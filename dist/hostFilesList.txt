@@ -7,7 +7,7 @@ http://someonewhocares.org/hosts/hosts
 http://winhelp2002.mvps.org/hosts.txt
 http://sysctl.org/cameleon/hosts.win
 
-# Hasn't been updated since 2012, you may wish to uncomment if you wish to use it.
+# Hasn't been updated since 2012, uncomment if you wish to use it.
 # http://hostsfile.mine.nu/Hosts
-# Aggressive list, it may cause some site to be broken
+# Aggressive list, it may cause some sites to be broken, uncomment if you wish to use it.
 # http://www.hostsfile.org/Downloads/hosts.txt
