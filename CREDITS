@@ -1,0 +1,10 @@
+This program obtain hosts file from the following websites:
+- http://pgl.yoyo.org/adservers
+- http://hosts-file.net
+- http://someonewhocares.org/hosts/
+- http://winhelp2002.mvps.org/
+- http://sysctl.org/cameleon/
+
+The following websites are listed in hostFilesList.txt but it is not in used:
+- http://hostsfile.mine.nu/
+- http://www.hostsfile.org/
