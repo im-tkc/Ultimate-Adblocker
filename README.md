@@ -1,6 +1,8 @@
 Ultimate-Adblocker
 =========
-A Java program that merge several adblocking, tracking hosts files together and remove unwanted duplicates.
+A Java program that merge several advertising, tracking and malware hosts files together and remove unwanted duplicates.
+
+<b>Over 486,935 entries (as of 1st December 2014) of undesirable domains listed!</b>
 
 Credits
 --------
@@ -10,10 +12,14 @@ This program obtain hosts file from the following websites:
   - http://someonewhocares.org/hosts/
   - http://winhelp2002.mvps.org/
   - http://sysctl.org/cameleon/
+  - [Trjlive’s Ultimate Ad-Block Hosts File](http://cdn.files.trjlive.com/hosts/hosts-v8.txt)
 
 The following websites are listed in `hostFilesList.txt` but it is not in used:
   - http://hostsfile.mine.nu/
   - http://www.hostsfile.org/
+ 
+There is also website that are listed in `hostFileList.txt` that provide a list of malware domains:
+- http://www.malwaredomainlist.com
 
 License
 -------

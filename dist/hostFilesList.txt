@@ -1,13 +1,21 @@
 # This is the file that contains links to download hosts file
 # Anything that begins with '#' will be ignored
 
+# Ad-Block list
 http://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&startdate%5Bday%5D=&startdate%5Bmonth%5D=&startdate%5Byear%5D=&mimetype=plaintext
 http://hosts-file.net/.%5Cad_servers.txt
+http://hosts-file.net/hphosts-partial.txt
 http://someonewhocares.org/hosts/hosts
 http://winhelp2002.mvps.org/hosts.txt
 http://sysctl.org/cameleon/hosts.win
+
+# Trjlive’s Ultimate Ad-Block Hosts File
+http://cdn.files.trjlive.com/hosts/hosts-v8.txt
 
 # Hasn't been updated since 2012, uncomment if you wish to use it.
 # http://hostsfile.mine.nu/Hosts
 # Aggressive list, it may cause some sites to be broken, uncomment if you wish to use it.
 # http://www.hostsfile.org/Downloads/hosts.txt
+
+# Malware domain
+http://www.malwaredomainlist.com/hostslist/hosts.txt

@@ -1,6 +1,6 @@
 @echo off
 
-set "javaExePath=Java\jre8\bin\java.exe"
+set "javaExePath=Java\jre1.8.0_25\bin\java.exe"
 set "fullJavaExePath=%ProgramFiles%\%javaExePath%"
 
 IF NOT EXIST "%fullJavaExePath%" (
